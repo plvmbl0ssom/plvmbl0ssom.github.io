@@ -1,0 +1,109 @@
+:: StoryTitle
+the flower (game)
+
+
+:: StoryData
+{
+  "ifid": "D019E43B-E5D4-4B62-89F2-FD64072D1848",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "1. nori's garden",
+  "zoom": 1
+}
+
+
+:: 1. nori's garden {"position":"400,375","size":"100,100"}
+you cares for your beautiful flower garden.
+[[visit the roses]]
+[[visit the lilies]]
+
+
+:: ask him what he's up to {"position":"337.5,800","size":"100,100"}
+he waves and smirks.
+[[you ask him what he wants]]
+
+
+:: check on hydrangeas {"position":"587.5,925","size":"100,100"}
+the hydrangeas look beautiful. you water them and continue to check up on the rest of your plants. you are happy, and you love your garden! the end.
+
+
+:: check on tulips {"position":"712.5,925","size":"100,100"}
+the tulips look beautiful. you water them and continue to check up on the rest of your plants. you are happy, and you love your garden! the end.
+
+
+:: give up {"position":"225,1675","size":"100,100"}
+your passion project has been destroyed. you are too discouraged to move on, and need to sit with this grief for a while. that's okay! healing isn't linear. you'll get back on your feet eventually.
+
+
+:: go investigate {"position":"225,1175","size":"100,100"}
+the fox is back! this time, he has prepared a gift. he slides it through the gate.
+[[you pick it up...]]
+
+
+:: go investigate... {"position":"400,675","size":"100,100"}
+there is a strange fox hovering outside. he waves
+[[ask him what he's up to]]
+[[run away!! stanger danger!]]
+[[remain silent]]
+
+
+:: go to sleep {"position":"225,1550","size":"100,100"}
+in the middle of the night, he sneaks in and destroys your garden. you wake up in tears :( all your hard work is destroyed!
+[[give up]]
+[[slowly begin replanting..]]
+
+
+:: let him in! {"position":"225,1425","size":"100,100"}
+he smiles as he floats into the garden. you give him a mini tour. after the day is done and you say your goodbyes, you lock the gate and
+[[go to sleep]]
+
+
+:: remain silent {"position":"400,950","size":"100,100"}
+you both stare at each other in silence. he floats closer to the gate.
+[[run away]]
+
+
+:: run away {"position":"400,1075","size":"100,100"}
+he is puzzled. but you are safe.
+[[check on hydrangeas]]
+[[check on tulips]]
+
+
+:: run away!! stanger danger! {"position":"525,800","size":"100,100"}
+he is puzzled. but you are safe.
+[[check on hydrangeas]]
+[[check on tulips]]
+
+
+:: slowly begin replanting.. {"position":"350,1675","size":"100,100"}
+you begin to rebuild your garden to distract yourself from the pain you have endured. you create a new area for lotus flowers in your pond. they look beautiful. you have a long way to go, but your determination will carry you far.  
+
+
+:: visit the lilies {"position":"400,500","size":"100,100"}
+the lilies look beautiful. suddenly, you hears a whistle at the gate.
+[[go investigate...]]
+
+
+:: visit the roses {"position":"550,500","size":"100,100"}
+the roses look beautiful. suddenly, you hear a whistle at the gate.
+[[go investigate...]]
+
+
+:: you are still wary, you take the crackers and retreat {"position":"350,1425","size":"100,100"}
+you retreat deeper into your garden. nice try! it's not that easy for him to win you over... you are happy with your garden and are managing just fine. good job!
+
+
+:: you ask him what he wants {"position":"212.5,925","size":"100,100"}
+he wants to get in, obviously. you shake your head and leave.
+[[you go to sleep]]
+
+
+:: you go to sleep {"position":"225,1050","size":"100,100"}
+you sleep peacefully that night, confused about the encounter. you wake up to the sun shining and...a whistle?
+[[go investigate]]
+
+
+:: you pick it up... {"position":"225,1300","size":"100,100"}
+it's a bag full of fish crackers! these are your favorite. how did he know?
+[[let him in!]]
+[[you are still wary, you take the crackers and retreat]]
